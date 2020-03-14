@@ -1,6 +1,6 @@
 <?php
 
-namespace Dotim\Support;
+namespace Dotim\PaginatedCollections;
 
 use Illuminate\Support\Collection;
 use Illuminate\Pagination\LengthAwarePaginator;
