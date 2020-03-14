@@ -3,6 +3,7 @@
 namespace Dotim\PaginatedCollections;
 
 use Illuminate\Support\Collection;
+use Illuminate\Support\ServiceProvider;
 use Illuminate\Pagination\LengthAwarePaginator;
 
 class PaginatedCollectionsServiceProvider extends ServiceProvider
